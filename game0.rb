@@ -5,7 +5,7 @@
 puts "Welcome to Eating Unripe Things for Beginners"
 puts "Want my number?"
 
-print "What's your name this time?"
+print "What's your name this time? "
 
 input = gets
 
