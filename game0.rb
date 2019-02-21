@@ -1,5 +1,4 @@
-#Get my number game (redundant because fun
-!)
+#Get my number game (redundant because fun!)
 #Written by "Jack Miller"
 
 puts "Welcome to Eating Unripe Things for Beginners"
