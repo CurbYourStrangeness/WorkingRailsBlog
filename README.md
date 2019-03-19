@@ -1,2 +1,2 @@
 # ProofofRuby-Head-First-
-Loading the HeadFirstRuby exercises as I do them
+Loading HeadFirstRuby and The Complete Rails Developer exercises as I do them, plus some private rails projects
